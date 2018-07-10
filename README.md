@@ -1,5 +1,4 @@
-# LogisticRegression
-Predicting a fraud transaction.
+# Using LogisticRegression to predict a fraudulent transaction.
 
 FittingLogisticRegression.ipynb is the code which runs a logistic regression model on a transactions data to predict if the given transaction is fraudulent or not.
 
